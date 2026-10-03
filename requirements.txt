@@ -3,3 +3,4 @@ pyarrow
 boto3
 pytest
 python-dotenv
+duckdb
